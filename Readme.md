@@ -17,4 +17,5 @@ git restore Readme.md (nome do arquivo).
 CUIDADO ao utilizar esse comando para não perder informações e processos realizados. 
 
 Em caso de ter realizado um commit e quiser voltar para as alterações do último
--> git reset -- soft HEAD~1
+
+-> git reset --soft HEAD~1
